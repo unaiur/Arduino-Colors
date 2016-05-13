@@ -1,0 +1,13 @@
+{
+  "name": "ArduinoColors",
+  "keywords": "rgb, color",
+  "description": "Class to represent an RGB color",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unaiur/Arduino-Colors.git"
+  },
+  "version": "1.0",
+  "include": "src",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
